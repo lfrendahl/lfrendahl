@@ -4,6 +4,7 @@ I'm Lisa
 📫 Reach me:lfrendahl3@gmail.com
 
 <img src='https://bcert.me/bc/html/img/badges/generated/badge-17103.png'>
+<a src='https://bcert.me/sfvmbcmyq'> Click Here </a>
 <!--
 **lfrendahl/lfrendahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
