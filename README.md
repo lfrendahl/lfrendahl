@@ -3,10 +3,8 @@
 I'm Lisa
 📫 Reach me:lfrendahl3@gmail.com
 
-![](https://bcert.me/bc/html/img/badges/generated/badge-17103.png | width=100)
+![image](https://bcert.me/bc/html/img/badges/generated/badge-17103.png | width=100)
 
-<img src='https://bcert.me/bc/html/img/badges/generated/badge-17103.png'>
-<a src='https://bcert.me/sfvmbcmyq'> Click Here </a>
 <!--
 **lfrendahl/lfrendahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
