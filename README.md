@@ -1,21 +1,18 @@
 ### Hi there 👋
 
 I'm Lisa
-📫 Reach me:lfrendahl3@gmail.com
-<img src=https://www.codewars.com/users/lfrendahl/badges/small>
+📫 Reach me at: lfrendahl3@gmail.com
+<img src=[https://www.codewars.com/users/lfrendahl/badges/small](https://www.codewars.com/users/lfrendahl/badges/large)>
 
+- 🌟 Fun fact: I have 3 dogs 🐶🐶🐶 and 3 cats 🐱🐱🐱. 
+- 😩 My biggest weakness is that the cats don't like that coding vies for their attention.  
+- 💬 Ask me about 📚 what I'm reading...
+- 🌱 I’m currently working on a gardening app.
 
 <!--
 **lfrendahl/lfrendahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-BIO
-Live: Georgia
-📫 Reach me:lfrendahl3@gmail.com
-⚙️ In daily work I use Javascript
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,5 +21,4 @@ Live: Georgia
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
