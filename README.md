@@ -6,8 +6,8 @@ I'm Lisa
 
 - 🌟 Fun fact: I have 3 dogs 🐶🐶🐶 and 3 cats 🐱🐱🐱. 
 - 😩 My biggest weakness is that the cats don't like that coding vies for their attention.  
-- 💬 Ask me about 📚 what I'm reading...
 - 🌱 I’m currently working on a gardening app.
+- 📘 If I'm not coding I'm probably reading or at the gym.
 
 <!--
 **lfrendahl/lfrendahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
