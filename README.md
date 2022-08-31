@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Lisa
-📫 Reach me at: lfrendahl3@gmail.com
-##<img src='https://www.codewars.com/users/lfrendahl/badges/large'>
+📫 Reach me at: lfrendahl3@gmail.com  
+## <img src='https://www.codewars.com/users/lfrendahl/badges/large'>
 
 - 🌟 Fun fact: I have 3 dogs 🐶🐶🐶 and 3 cats 🐱🐱🐱. 
 - 😩 My biggest weakness is that the cats don't like that coding vies for their attention.  
