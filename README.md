@@ -6,7 +6,7 @@ I'm Lisa
 
 - 🌟 Fun fact: I have 3 dogs 🐶🐶🐶 and 3 cats 🐱🐱🐱. 
 - 😩 My biggest weakness is that the cats don't like that coding vies for their attention.  
-- 🌱 I’m currently working on an app that helps educators quickly find vocabulary and grammar based read-alouds.
+- 🌱 I’m currently working on an app that helps educators quickly find vocabulary skill based read-alouds.
 - 📘 If I'm not coding I'm probably reading or at the gym.
 
 <!--
